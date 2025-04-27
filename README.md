@@ -26,10 +26,10 @@ It provides detailed spending overviews, monthly budgets, goal tracking with a p
 - [x] Set up project structure
 - [x] Create the homepage
 - [x] Create the pricing page
-- [] Create the features page
-- [] Create the about page
-- [] Create the product page
-- [] Implement receipt upload UI
+- [ ] Create the features page
+- [ ] Create the about page
+- [ ] Create the product page
+- [ ] Implement receipt upload UI
 - [ ] Integrate OCR for receipt text extraction
 - [ ] Build expense categorization logic
 - [ ] Develop monthly targets feature
