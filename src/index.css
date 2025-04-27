@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+
+.swiper-button-next,.swiper-button-prev{
+    color: #fff !important;
+    padding: 20px;
+    border-radius: 50%;
+    background-color: #000;
+}
+.swiper-button-next::after,.swiper-button-prev::after{
+    font-size: 20px !important;
+}
+.swiper-button-disabled{
+    display: none !important;
+}
